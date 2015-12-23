@@ -1,0 +1,13 @@
+C:\Users\microkj\OneDrive\soft\ActiveMQNet\Signalr.ActiveM\bin\Debug\Signalr.ActiveM.dll
+C:\Users\microkj\OneDrive\soft\ActiveMQNet\Signalr.ActiveM\bin\Debug\Signalr.ActiveM.pdb
+C:\Users\microkj\OneDrive\soft\ActiveMQNet\Signalr.ActiveM\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\microkj\OneDrive\soft\ActiveMQNet\Signalr.ActiveM\bin\Debug\Apache.NMS.dll
+C:\Users\microkj\OneDrive\soft\ActiveMQNet\Signalr.ActiveM\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\microkj\OneDrive\soft\ActiveMQNet\Signalr.ActiveM\bin\Debug\Apache.NMS.pdb
+C:\Users\microkj\OneDrive\soft\ActiveMQNet\Signalr.ActiveM\bin\Debug\Apache.NMS.xml
+C:\Users\microkj\OneDrive\soft\ActiveMQNet\Signalr.ActiveM\bin\Debug\Apache.NMS.ActiveMQ.pdb
+C:\Users\microkj\OneDrive\soft\ActiveMQNet\Signalr.ActiveM\bin\Debug\Apache.NMS.ActiveMQ.xml
+C:\Users\microkj\OneDrive\soft\ActiveMQNet\Signalr.ActiveM\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\microkj\OneDrive\soft\ActiveMQNet\Signalr.ActiveM\obj\Debug\Signalr.ActiveMQ.csprojResolveAssemblyReference.cache
+C:\Users\microkj\OneDrive\soft\ActiveMQNet\Signalr.ActiveM\obj\Debug\Signalr.ActiveM.dll
+C:\Users\microkj\OneDrive\soft\ActiveMQNet\Signalr.ActiveM\obj\Debug\Signalr.ActiveM.pdb

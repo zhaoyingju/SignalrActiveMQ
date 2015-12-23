@@ -1,0 +1,1 @@
+E:\StudyCode\ActiveMQNet\bin\Debug\ActiveMQNet.exe.config

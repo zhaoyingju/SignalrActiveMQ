@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveMQNetProcucer", "ActiveMQNetProcucer\ActiveMQNetProcucer.csproj", "{3E53020E-1340-42DF-84C6-2F3BD62D70F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveMQNetCustomer", "ActiveMQNetCustomer\ActiveMQNetCustomer.csproj", "{D3EEE9DB-4F22-4553-93B3-E9D3A23ADAC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Signalr", "Signalr", "{F5E15D37-CCA7-4843-92F3-D3A50DF613DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.ActiveMQ.WebHost", "Signalr\SignalR.ActiveMQ.WebHost\SignalR.ActiveMQ.WebHost.csproj", "{FC51A44E-C563-482C-BF3C-653C364DDB6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Signalr.ActiveMQ.Web", "Signalr\Signalr.ActiveMQ.Web\Signalr.ActiveMQ.Web.csproj", "{ECE344D0-5D02-4F2E-A777-6ECBDD2210F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Signalr.ActiveMQ.SelfHost", "Signalr\Signalr.ActiveMQ.SelfHost\Signalr.ActiveMQ.SelfHost.csproj", "{57EE99A7-A750-412D-AA03-C1EC7EBB4686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Signalr.ActiveMQ", "Signalr.ActiveM\Signalr.ActiveMQ.csproj", "{9A001F46-7DD9-4AF2-A888-4578945E2DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E53020E-1340-42DF-84C6-2F3BD62D70F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E53020E-1340-42DF-84C6-2F3BD62D70F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E53020E-1340-42DF-84C6-2F3BD62D70F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E53020E-1340-42DF-84C6-2F3BD62D70F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3EEE9DB-4F22-4553-93B3-E9D3A23ADAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3EEE9DB-4F22-4553-93B3-E9D3A23ADAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3EEE9DB-4F22-4553-93B3-E9D3A23ADAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3EEE9DB-4F22-4553-93B3-E9D3A23ADAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC51A44E-C563-482C-BF3C-653C364DDB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC51A44E-C563-482C-BF3C-653C364DDB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC51A44E-C563-482C-BF3C-653C364DDB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC51A44E-C563-482C-BF3C-653C364DDB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE344D0-5D02-4F2E-A777-6ECBDD2210F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE344D0-5D02-4F2E-A777-6ECBDD2210F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE344D0-5D02-4F2E-A777-6ECBDD2210F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE344D0-5D02-4F2E-A777-6ECBDD2210F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57EE99A7-A750-412D-AA03-C1EC7EBB4686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EE99A7-A750-412D-AA03-C1EC7EBB4686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EE99A7-A750-412D-AA03-C1EC7EBB4686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EE99A7-A750-412D-AA03-C1EC7EBB4686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A001F46-7DD9-4AF2-A888-4578945E2DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A001F46-7DD9-4AF2-A888-4578945E2DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A001F46-7DD9-4AF2-A888-4578945E2DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A001F46-7DD9-4AF2-A888-4578945E2DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FC51A44E-C563-482C-BF3C-653C364DDB6D} = {F5E15D37-CCA7-4843-92F3-D3A50DF613DD}
+		{ECE344D0-5D02-4F2E-A777-6ECBDD2210F4} = {F5E15D37-CCA7-4843-92F3-D3A50DF613DD}
+		{57EE99A7-A750-412D-AA03-C1EC7EBB4686} = {F5E15D37-CCA7-4843-92F3-D3A50DF613DD}
+		{9A001F46-7DD9-4AF2-A888-4578945E2DCC} = {F5E15D37-CCA7-4843-92F3-D3A50DF613DD}
+	EndGlobalSection
+EndGlobal

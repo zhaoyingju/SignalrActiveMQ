@@ -1,0 +1,3 @@
+C:\Users\micro\OneDrive\soft\ActiveMQNet\Signalr\SignalR.ActiveMQ.Sample\obj\Debug\SignalR.ActiveMQ.WebHost.csprojResolveAssemblyReference.cache
+C:\Users\micro\OneDrive\soft\ActiveMQNet\Signalr\SignalR.ActiveMQ.Sample\obj\Debug\SignalR.ActiveMQ.Sample.dll
+C:\Users\micro\OneDrive\soft\ActiveMQNet\Signalr\SignalR.ActiveMQ.Sample\obj\Debug\SignalR.ActiveMQ.Sample.pdb
